@@ -1,3 +1,4 @@
+/* js/script.js of bbauska/Vertical-timeline making vert-timeline.bauska.org */
 const targets = document.querySelectorAll(".timeline ol li");
 const threshold = 0.5;
 const ANIMATED_CLASS = "in-view";
