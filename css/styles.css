@@ -3,8 +3,8 @@
 
 :root {
   --red: #f45b69;
-  --dark-blue: #227c9d;
-  --turquoise: #17c3b2;
+  --dark-blue: #227c9d;  /* dark blue */
+  --turquoise: #17c3b2;  /* strong cyan */
   --white: #fff;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .intro {
   color: var(--white);
-  background: var(--red);
+  background: var(--green);  /* red */
   padding: 100px 0;
 }
 
